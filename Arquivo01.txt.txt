@@ -1,1 +1,4 @@
 Arquivo da aula 02 de GIT
+
+
+Acrescentar uma pequena alteração 
